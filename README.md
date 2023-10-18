@@ -1,11 +1,6 @@
 # Personalization and Machine Learning
 
-This repository contains all assignments from the Personalization and Machine Learning Course completed during my Master's of Science in Data Sciencce and AI.
-
-A full list of these assignments is as follows:
-1. Assignment 1 Code as a Jupyter Notebook and Report as a PDF file. 
-2. Assignment 2 Code as a Jypyter Notebook.
-3. Assignment 3 Code as a Jupyter Notebook.
+This repository contains all assignments from the Personalization and Machine Learning Course completed during my Master's of Science in Data Science and AI.
 
 ## Description
 
